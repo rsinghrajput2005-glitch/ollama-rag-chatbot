@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+chatbot/new_chroma_db/
+externel_model/
+.env

@@ -1,0 +1,11 @@
+ollama
+pydantic
+llama_index
+langchain_community
+langchain_ollama
+langchain_text_splitters
+langchain_core
+langchain_chroma
+fastapi
+python-multipart
+pypdf

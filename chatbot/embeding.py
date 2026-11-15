@@ -1,8 +1,7 @@
 from langchain_ollama import OllamaEmbeddings
 
 def embedding_model():
-    embeddings = OllamaEmbeddings(
-    model='mxbai-embed-large'
+    return OllamaEmbeddings(
+        model="mxbai-embed-large",
+        base_url="http://localhost:11434"
     )
-    
-    return embeddings
